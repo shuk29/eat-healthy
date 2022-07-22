@@ -1,21 +1,22 @@
 .half-width{
     width: 50%;
-    padding: 5%;
 }
 .half-width img{
     width: 100%;
 
 }
 .weight{
-    font-size: 30px;
+    font-size: 25px;
 }
 .display{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .first-section{
     width: 50%;
-    margin: 0;
+    padding-left: 0%;
+    align-self: center;
+    padding-left: 30%;
 }
 .second-section{
     background-image: url(eat-healthy-main/images/shapes/7.png);
